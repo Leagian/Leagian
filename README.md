@@ -15,14 +15,15 @@
   </div>
 
 <div style='font-family: "Roboto", sans-serif; display:flex;justify-content:space-around;align-items:center;'>
-    <div style="width:70%">
-          <img style="width:50%" align='right' src="" />
+    <div tex-align: 'right'>
+          <iframe src="https://giphy.com/embed/usXZmmgP9Z7kf39fnq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq" />
+    </div>
+        <div tex-align: 'center'>
        <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>🚀 Some facts about me</h2>
         <ul>
             <li>🔭 I’m currently working at <a href="https://www.wildcodeschool.com/fr-FR"><b>Wild Code School</b></a>!</li>
             <li>🧐 Learning about <strong>Front-end</strong> and <strong>Back-end</strong> development</li>
             <li>💬 Ask me about <strong>Art and video games</strong></li>
-            <li>🏴‍☠️ I am currently watching <b></b></li>
         </ul>
     </div>
 </div>
