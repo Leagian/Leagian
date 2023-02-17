@@ -16,7 +16,7 @@
 
 <div style='font-family: "Roboto", sans-serif; display:flex;justify-content:space-around;align-items:center;'>
     <div style="width:70%">
-          <img style="width:50%" align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQyYTQwM2ZlM2M4ZDVhZWY5ZDAzOWUyOWY2MDQ3ODMwYTUyZjdiZSZjdD1n/usXZmmgP9Z7kf39fnq/giphy.gif" />
+          <img style="width:50%" align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQyYTQwM2ZlM2M4ZDVhZWY5ZDAzOWUyOWY2MDQ3ODMwYTUyZjdiZSZjdD1n/usXZmmgP9Z7kf39fnq/giphy.gif" />&nbsp;&nbsp;
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>🚀 Some facts about me</h2>
         <ul>
             <li>🔭 I’m currently working at <a href="https://www.wildcodeschool.com/fr-FR"><b>Wild Code School</b></a>!</li>
