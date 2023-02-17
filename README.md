@@ -12,11 +12,11 @@
    <a href="https://www.linkedin.com/in/leagiangrosso/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>&nbsp;&nbsp;
-     <img style="width:30%" align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgwNjE3ZGE4MjE4YzM1ZTAzNmM4ZDVmYTZmMDJlNjk5N2Y5NzkzYiZjdD1n/MeJgB3yMMwIaHmKD4z/giphy.gif" />&nbsp;&nbsp;
   </div>
 
 <div style='font-family: "Roboto", sans-serif; display:flex;justify-content:space-around;align-items:center;'>
-    <div style="width:70%">
+    <div style="width:50%">
+        <img style="width:30%" align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgwNjE3ZGE4MjE4YzM1ZTAzNmM4ZDVmYTZmMDJlNjk5N2Y5NzkzYiZjdD1n/MeJgB3yMMwIaHmKD4z/giphy.gif" />&nbsp;&nbsp;
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>🚀 Some facts about me</h2>
         <ul>
             <li>🔭 I’m currently working at <a href="https://www.wildcodeschool.com/fr-FR"><b>Wild Code School</b></a>!</li>
