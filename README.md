@@ -20,7 +20,7 @@
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>🚀 Some facts about me</h2>
         <ul>
             <li>🔭 I’m currently a student at <a href="https://www.wildcodeschool.com/fr-FR"><b>Wild Code School</b></a>!</li>
-            <li>🌱 Learning about <strong>Front-end and Back-end development </strong>development</li>
+            <li>🌱 Learning about <strong>Front-end and Back-end </strong>development</li>
             <li>💬 Ask me about <strong>Medieval Art and FromSoftware games</strong></li>
         </ul>
     </div>
