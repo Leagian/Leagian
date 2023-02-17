@@ -16,7 +16,7 @@
 
 <div style='font-family: "Roboto", sans-serif; display:flex;justify-content:space-around;align-items:center;'>
     <div style="width:70%">
-          <img style="width:50%" align='right' src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" />
+          <img style="width:50%" align='right' src="" />
        <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>🚀 Some facts about me</h2>
         <ul>
             <li>🔭 I’m currently working at <a href="https://www.wildcodeschool.com/fr-FR"><b>Wild Code School</b></a>!</li>
