@@ -1,5 +1,5 @@
 <h1 style='font-family: "Roboto", sans-serif; display:flex;justify-content:center;'>👋 Hi, I'm Léa !</h1>
-  <img style="width:20%" align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgwNjE3ZGE4MjE4YzM1ZTAzNmM4ZDVmYTZmMDJlNjk5N2Y5NzkzYiZjdD1n/MeJgB3yMMwIaHmKD4z/giphy.gif" />&nbsp;&nbsp;
+  <img style="width:10%" align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgwNjE3ZGE4MjE4YzM1ZTAzNmM4ZDVmYTZmMDJlNjk5N2Y5NzkzYiZjdD1n/MeJgB3yMMwIaHmKD4z/giphy.gif" />&nbsp;&nbsp;
 <div style='padding:1em; display:flex;justify-content:center;'>
     <a href="https://leagiangrosso.netlify.app/">
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
