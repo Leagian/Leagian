@@ -18,7 +18,7 @@
     <div style="width:90%">    
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>🚀 Some facts about me</h2>
         <ul>
-            <li>🔭 I’m currently a student at <a href="https://www.wildcodeschool.com/fr-FR"><b>Wild Code School</b></a>!</li>
+            <li>🔭 I’m currently a student doing a work-study program at <b><a href="https://www.wildcodeschool.com/fr-FR">Wild Code School</a></b> and <b><a href="https://www.sns-security.fr/">SNS Security</a</b> ! </li>
             <li>🌱 Learning about <strong>Front-end and Back-end </strong>development</li>
             <li>💬 Ask me about <strong>Medieval Art and FromSoftware games</strong></li>
         </ul>
