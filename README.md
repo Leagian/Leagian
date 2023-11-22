@@ -18,7 +18,7 @@
     <div style="width:90%">    
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>🚀 Some facts about me</h2>
         <ul>
-            <li>🔭 I’m currently a student doing a work-study program at <b><a href="https://www.wildcodeschool.com/fr-FR">Wild Code School</a></b> and <b><a href="https://www.sns-security.fr/">SNS Security</a</b> ! </li>
+            <li>🔭 I’m currently a student doing a work-study program at <b><a href="https://www.wildcodeschool.com/fr-FR">Wild Code School</a></b> and <b><a href="https://kuzzle.io/fr/">Kuzzle</a</b> ! </li>
             <li>🌱 Learning about <strong>Front-end and Back-end </strong>development</li>
             <li>💬 Ask me about <strong>Medieval Art and FromSoftware games</strong></li>
         </ul>
@@ -29,6 +29,7 @@
 <div align='center'>
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>💻 Languages and tools I use</h2>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><br>&nbsp;&nbsp;
