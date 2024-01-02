@@ -1,6 +1,6 @@
 <h1 style='font-family: "Roboto", sans-serif; display:flex;justify-content:center;'>👋 Hi, I'm Léa !</h1>
 <div style='padding:1em; display:flex;justify-content:center;'>
-    <a href="https://leagiangrosso.netlify.app/" target= "_blank">
+    <a href="https://leagiangrosso.netlify.app/" target= "_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>&nbsp;&nbsp;
     <a href="mailto:lea.giangrosso@gmail.com">
