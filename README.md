@@ -19,8 +19,8 @@
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>🚀 Some facts about me</h2>
         <ul>
             <li>🔭 I’m currently a student doing a work-study program at <b><a href="https://www.wildcodeschool.com/fr-FR">Wild Code School</a></b> and <b><a href="https://kuzzle.io/fr/">Kuzzle</a</b> ! </li>
-            <li>🌱 Learning about <strong>Front-end and Back-end </strong>development</li>
-            <li>💬 Ask me about <strong>Medieval Art and FromSoftware games</strong></li>
+            <li>🌱 Learning about <b>Front-end and Back-end </b>development</li>
+            <li>💬 Ask me about <b>Medieval Art and FromSoftware games</b></li>
         </ul>
     </div>
 </div>
@@ -33,7 +33,6 @@
         <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><br>&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />&nbsp;&nbsp;
-        <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> &nbsp;&nbsp;
