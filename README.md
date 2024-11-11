@@ -1,10 +1,4 @@
 <h1 style='font-family: "Roboto", sans-serif; display:flex;justify-content:center;'>👋 Hi, I'm Léa !</h1>
-
-<div style='font-family: "Roboto", sans-serif; display:flex;justify-content:space-around;align-items:center;'>
-    <div style="width:90%">    
-    </div>
-</div>
-    
 <br>
 <div align='center'>
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>💻 Languages and tools I use</h2>
