@@ -1,15 +1,4 @@
 <h1 style='font-family: "Roboto", sans-serif; display:flex;justify-content:center;'>👋 Hi, I'm Léa !</h1>
-<div style='padding:1em; display:flex;justify-content:center;'>
-    <a href="mailto:lea.giangrosso@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>&nbsp;&nbsp;
-    <a href="">
-        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-    </a>&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/leagiangrosso/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>&nbsp;&nbsp;
-  </div>
 
 <div style='font-family: "Roboto", sans-serif; display:flex;justify-content:space-around;align-items:center;'>
     <div style="width:90%">    
